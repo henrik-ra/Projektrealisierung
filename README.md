@@ -10,5 +10,6 @@ Gruppenmitglieder:
 - Henrik Rathai
 - Ali Moutyrek
 
-# Dashboard über Tableau Public
-[https://public.tableau.com/app/profile/emre.iyig.n/viz/Projektrealisierung/AnzahlanAktionennachFlughafen?publish=yes](https://public.tableau.com/app/profile/emre.iyig.n/viz/data_vis_17180352621070/AnzahlanFlgenachFlughafen)
+**Tableau Dashboard über Tableau Public** 👉  <a href="https://public.tableau.com/views/data_vis_17180352621070/Dashboard-Aktionen?:language=de-DE&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Dashboard">
+</a>
