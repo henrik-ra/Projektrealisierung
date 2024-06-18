@@ -1,0 +1,64 @@
+Abbreviation;Explaination
+id: ;Unique identifier for the dataset.
+airline_code:; Airline code.
+flight_number: ;Flight number.
+flight_date: ;Flight date.
+departure_airport: ;Departure airport.
+user_name:; Username of the person entering or editing the data.
+action_name: ;Name of the action performed.
+START_WI weight: ;Weight at start.
+START_WI index:; Index at start.
+DO_WI weight: ;Takeoff weight.
+DO_WI index:; Takeoff index.
+PAX_WI weight: ;Passenger weight.
+PAX_WI index: ;Passenger index.
+TOTAL_DEADLOAD_WI weight: ;Total deadload weight (including cargo and baggage).
+TOTAL_DEADLOAD_WI index:; Total deadload index.
+TOTAL_LOAD_WI: ;Total load weight.
+TOTAL_TRAFFIC_LOAD: ;Total traffic load (including passengers, cargo, and mail).
+FUEL_INDEX: ;Fuel index (balance and center of gravity related to fuel).
+AZFW: ;Adjusted Zero Fuel Weight (calculated weight of the aircraft without fuel but with all other loads).
+ATOW: ;Adjusted Takeoff Weight (calculated weight of the aircraft at takeoff).
+ALAW: ;Adjusted Landing Weight (calculated weight of the aircraft at landing).
+ATXW: ;Adjusted Taxi Weight (calculated weight of the aircraft while taxiing).
+AFT_LIMIT_ZFW:; Aft limit of Zero Fuel Weight (balance limit of the aircraft without fuel).
+FWD_LIMIT_ZFW: ;Forward limit of Zero Fuel Weight.
+AFT_LIMIT_TOW: ;Aft limit of Takeoff Weight.
+FWD_LIMIT_TOW:; Forward limit of Takeoff Weight.
+AFT_LIMIT_LAW: ;Aft limit of Landing Weight.
+FWD_LIMIT_LAW: ;Forward limit of Landing Weight.
+LIZFW:;Limited Index at Zero Fuel Weight.
+LITOW: ;Limited Index at Takeoff Weight.
+LILAW: ;Limited Index at Landing Weight.
+MAC_AT_ZFW:; Mean Aerodynamic Chord at Zero Fuel Weight.
+MAC_AT_TOW: ;Mean Aerodynamic Chord at Takeoff Weight.
+MAC_AT_LAW: ;Mean Aerodynamic Chord at Landing Weight.
+DEADLOAD_MAC: ;Mean Aerodynamic Chord of deadload.
+UNDERLOAD: ;Underload (weight below the maximum allowable load).
+LIMITING_WEIGHT: ;Limiting weight (maximum allowable weight).
+ALLOWED TOW: ;Allowed Takeoff Weight.
+ALLOWED ZFW: ;Allowed Zero Fuel Weight.
+ALLOWED LAW: ;Allowed Landing Weight.
+ALLOWED TXW: ;Allowed Taxi Weight.
+STABTO: ;Stability at takeoff.
+OPTIMAL_TRIM: ;Optimal trim of the aircraft.
+IDEAL_ADDITIONAL_LOAD_AFT: ;Ideal additional load in the aft section.
+IDEAL_ADDITIONAL_LOAD_FWD:; Ideal additional load in the forward section.
+TAIL_TIPPING_WI weight:;Tail tipping weight.
+TAIL_TIPPING_WI index: ;Tail tipping index.
+TAIL_TIPPING_INDEX_EXCEEDED:;Tail tipping index exceeded.
+FWD_MOVABLE_PAX:;Movable passengers in the forward section.
+AFT_MOVABLE_PAX: ;Movable passengers in the aft section.
+INDEX_OUT_OF_BALANCE:; Index out of balance.
+LOAD_TO_AFT:; Load shifted to aft.
+LOAD_TO_FWD: ;Load shifted to forward.
+ESTIMATED_TRAFFIC_LOAD: ;Estimated traffic load.
+ESTIMATED_ZFW: ;Estimated Zero Fuel Weight.
+DELTA_ZFW: ;Difference in Zero Fuel Weight.
+ZFW_TOLERANCE_EXCEEDED: ;Zero Fuel Weight tolerance exceeded.
+Total bag weight: ;Total baggage weight.
+airport_name: ;Name of the airport.
+city: ;City of the airport.
+region: ;Region of the airport.
+country_name: ;Country of the airport.
+continent: ;Continent of the airport.
