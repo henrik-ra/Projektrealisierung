@@ -16,7 +16,6 @@ Gruppenmitglieder:
 <a href="https://public.tableau.com/views/data_vis_17204533954490/Dashboard_Flge?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Dashboard">
 </a>
 
-<a href="https://public.tableau.com/views/data_vis_17204533954490/Dashboard_TOP_BOTTOM?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Dashboard">
-</a>
+https://public.tableau.com/views/data_vis_17204533954490/Dashboard_TOP_BOTTOM?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
